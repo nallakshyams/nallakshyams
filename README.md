@@ -1,6 +1,6 @@
 - 👋 Hi, I’m N Sreenivasulu Reddy
 - 👀 I’m interested in artificial intelligence and machine learning
-- 🌱 I’m currently learning swift 5.4
+- 🌱 I’m currently learning React 
 - 📫 How to reach me mailtosreeni999@gmail.com
 
 <!---
