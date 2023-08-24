@@ -1,7 +1,7 @@
 - 👋 Hi, I’m N Sreenivasulu Reddy
-- 👀 I’m interested in artificial intelligence and machine learning
+- 👀 I’m interested in learning artificial intelligence and machine learning
 - 🌱 I’m currently learning React 
-- 📫 How to reach me mailtosreeni999@gmail.com
+- 📫 Reach me @ mailtosreeni999@gmail.com
 
 <!---
 nallakshyams/nallakshyams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
